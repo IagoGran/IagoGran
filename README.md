@@ -16,11 +16,19 @@ My goal is not just to train better models, but to create technology that genuin
 
 ## Currently
 
-🎓 Finishing my AI degree. (Currently working on my thesis!)
+🎓 Finishing my AI degree. (Currently completing my Bachelor's Thesis.)
 
-🚀 Building practical AI projects focused on education, accessibility and social impact.
+🚀 Building AI projects that aim to improve education, accessibility and social impact.
 
 📚 Exploring Deep Learning architectures beyond LLMs.
+
+## Featured Project
+
+🩺 ClinicalWhisper
+
+An AI-powered local assistant designed to support healthcare professionals while preserving privacy.
+
+**Repository:** [IagoGran/ClinicalWhisper](https://github.com/IagoGran/ClinicalWhisper)
 
 ## About this profile
 
