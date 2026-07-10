@@ -1,5 +1,32 @@
-## Hi there 👋
+# Hi, I'm Iago 👋
 
+Junior AI Engineer from Spain.
+
+I enjoy building Artificial Intelligence systems that solve real-world problems.
+
+My goal is not just to train better models, but to create technology that genuinely improves people's lives.
+
+## Interests
+
+- Deep Learning
+- Computer Vision
+- Machine Learning
+- AI for Social Impact
+- Intelligent Decision Support Systems
+
+## Currently
+
+🎓 Finishing my AI degree.
+
+🚀 Building practical AI projects focused on education, accessibility and social impact.
+
+## About this profile
+
+Yes... it's a bit emptier than I'd like.
+
+I'm currently finishing my degree while building projects that I'd actually be proud to show, instead of uploading every university assignment.
+
+The goal is simple: fewer repositories, better engineering.
 <!--
 **IagoGran/IagoGran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
