@@ -16,9 +16,11 @@ My goal is not just to train better models, but to create technology that genuin
 
 ## Currently
 
-🎓 Finishing my AI degree.
+🎓 Finishing my AI degree. (Currently working on my thesis!)
 
 🚀 Building practical AI projects focused on education, accessibility and social impact.
+
+📚 Exploring Deep Learning architectures beyond LLMs.
 
 ## About this profile
 
