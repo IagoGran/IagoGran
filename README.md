@@ -26,7 +26,7 @@ My goal is not just to train better models, but to create technology that genuin
 
 🩺 ClinicalWhisper
 
-An AI-powered local assistant designed to support healthcare professionals while preserving privacy.
+A privacy-first local application that transcribes clinical conversations, generates structured summaries and stores reusable patient histories.
 
 **Repository:** [IagoGran/ClinicalWhisper](https://github.com/IagoGran/ClinicalWhisper)
 
